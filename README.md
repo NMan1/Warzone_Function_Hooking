@@ -1,6 +1,14 @@
+# Disclaimer
 
+This project is provided for educational and research purposes only. By accessing or using this repository, you agree to the following:
 
-# external_warzone_cheat
+    You will not use this code in any way that violates applicable laws or terms of service of any software or service.
+    The author is not responsible for any misuse of this project or any consequences resulting from its use.
+
+## If you are a potential employer:
+This project showcases my programming skills, problem-solving abilities, and interest in reverse engineering. It is not an endorsement of any illegal or unethical activities.
+
+## external_warzone_cheat
 ### External warzone cheat with manual mapped driver (function hook), overlay (nvidia hijack), simple esp, no recoil
 
 ## Offsests are NOT up to date 
